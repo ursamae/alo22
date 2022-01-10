@@ -1,0 +1,81 @@
+.u22box { 
+width:400px; 
+margin-top: -40px;
+margin-bottom: 30px;
+padding:30px;   
+background:#ffffff;  
+border-radius: 10px 10px 10px 10px; 
+text-align:justify;  
+line-height:200%;} 
+
+.u22text { 
+font-family: 'Poppins', sans-serif;
+color:#696969; 
+font-size:14.5px; 
+padding: 40px 20px 20px; } 
+
+.u22icon { 
+-webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0,0,1,1)), to(rgba(0,0,0,0))); 
+position:relative; 
+z-index:1;
+text-align:center; 
+color: var(--ikona); 
+font-size: var(--velikost); 
+text-shadow: 2px 2px #ececec;}   
+
+t { 
+color: var(--govor);  
+font-weight: bold;}  
+
+.u22element {  
+margin-top:20px; 
+float: center; 
+shape-outside: circle(50%);    }   
+
+.u22date {
+font-family: 'Poppins', sans-serif;
+text-align:center;
+text-transform:uppercase;  
+color:#ececec; 
+font-weight:700; 
+font-style:italic; 
+font-size:40px; 
+margin-top:-15px; } 
+
+ .class a.user-tagged { 
+font-family: 'Poppins', sans-serif; 
+font-style:bold; 
+font-size:11px; 
+padding: 5px 8px 5px;
+border-radius: 40px 40px 40px 40px; 
+color: #bdbdbd; 
+background-color:#eeeeee; 
+text-shadow: 0 0 8px #fffd;} 
+
+.u22tagarea {
+font-family: 'Poppins', sans-serif; 
+font-size:11px; 
+padding: 0px 20px 0px; 
+margin-bottom:-10px; 
+text-align:left; 
+line-height:270%;}
+
+
+
+
+
+#freya { --govor: #95B7F2; --ikona: #315587; --velikost: 90px; }
+ 
+ #poppy { --govor: #ff8376; --ikona: #ff8376; --velikost: 100px; } 
+  
+ #bea { --govor: #acd454; --ikona: #acd454; --velikost: 90px; } 
+
+#nora { --govor: #a879ae; --ikona: #a879ae;--velikost: 100px; } 
+
+#avalon { --govor: #ff9427; --ikona: #ff9427; --velikost: 100px; }
+
+#atticus { --govor: #90af82; --ikona: #90af82; --velikost: 100px; } 
+
+#odile { --govor: #82939A; --ikona: #82939A; --velikost: 100px; } 
+
+#lewis { --govor: #b97171; --ikona: #b97171; --velikost: 100px; } 
