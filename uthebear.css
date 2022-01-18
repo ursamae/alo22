@@ -32,7 +32,8 @@ color: var(--govor);
 font-weight: bold;} 
 
 .uthebearbox i {
- color: var(--govor);}
+color: var(--govor);
+border-bottom:1px solid var(--govor);}
 
 .uthebearelement {  
 margin-top:20px; 
