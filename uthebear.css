@@ -30,6 +30,8 @@ t {
 color: var(--govor);  
 font-weight: bold;} 
 
+.uthebear i {
+ color: var(--govor);}
 
 .uthebearelement {  
 margin-top:20px; 
