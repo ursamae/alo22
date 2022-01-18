@@ -27,8 +27,7 @@ t {
 color: var(--govor);  
 font-weight: bold;} 
 
-.uthebear-body i {
-  font-weight:400;
+.i {
   border-bottom:1px solid var(--govor);
   color:#95B7F2;
 }
