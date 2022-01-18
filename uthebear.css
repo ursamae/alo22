@@ -25,7 +25,13 @@ text-shadow: 2px 2px #ececec;}
 
 t { 
 color: var(--govor);  
-font-weight: bold;}  
+font-weight: bold;} 
+
+.uthebear-body i {
+  font-weight:400;
+  border-bottom:1px solid var(--govor);
+  color:#95B7F2;
+}
 
 .uthebearelement {  
 margin-top:60px; 
