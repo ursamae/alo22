@@ -1,6 +1,6 @@
 .uthebearbox { 
 width:400px; 
-margin-top: -20px;
+margin-top: 10px;
 margin-bottom: 30px;
 padding:30px;   
 background:#ffffff;  
@@ -34,7 +34,7 @@ font-weight: bold;}
 }
 
 .uthebearelement {  
-margin-top:60px; 
+margin-top:20px; 
 float: center; 
 shape-outside: circle(50%);    }   
 
