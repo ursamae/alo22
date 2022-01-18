@@ -33,7 +33,7 @@ font-weight: bold;}
 
 .uthebearbox i {
 color: var(--govor);
-border-bottom:1px solid #ececec;}
+border-bottom:1px solid var(--ikona);}
 
 .uthebearelement {  
 margin-top:20px; 
